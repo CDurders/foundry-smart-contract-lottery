@@ -1,4 +1,4 @@
-# Provabæy Random Raffle Contracts
+# Provably Random Raffle Contracts
 
 ##
 
